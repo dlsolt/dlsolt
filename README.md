@@ -1,4 +1,4 @@
-## Hi there 👋DLS yyyyyyy
+I am building a T41-EP and modifying the code as I add features
 
 <!--
 **dlsolt/dlsolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
